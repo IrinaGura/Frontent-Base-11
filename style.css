@@ -4,3 +4,25 @@
 .path {
     fill: white;
 }
+.rect-red {
+    fill: rgb(218, 18, 26);
+}
+.rect-yellow {
+    fill: rgb(252, 221, 9);
+}
+.rect-green {
+    fill:  rgb(7, 137, 48);
+}
+.circle {
+    fill: rgb(15, 71, 175);
+}
+.polygon1 {
+    fill: transparent;
+    stroke-width: 4px;
+    stroke: rgb(252, 221, 9);
+}
+.line {
+    fill: transparent;
+    stroke-width: 2px;
+    stroke: rgb(252, 221, 9);
+}
